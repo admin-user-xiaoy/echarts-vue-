@@ -1,0 +1,19 @@
+{
+  "properties": [
+    {
+      "name": "spring",
+      "type": "java.lang.String",
+      "description": "Description for spring."
+    },
+    {
+      "name": "datasource",
+      "type": "java.lang.String",
+      "description": "Description for datasource."
+    },
+    {
+      "name": "mybatis.configuration.map-underscore-to-camel-case",
+      "type": "java.lang.String",
+      "description": "Description for mybatis.configuration.map-underscore-to-camel-case."
+    },
+
+  ] }
